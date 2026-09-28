@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Clyde Raymond Willis
+# 👋 Hi, I'm Sins
 
 ### 💻 IT Support • Cybersecurity • Systems Engineering • Software Development
 
@@ -24,10 +24,6 @@ The program covered:
 - 🔐 Cybersecurity & Privacy
 - ☁️ Microsoft 365
 - 🛠️ Technical Diagnostics & Troubleshooting
-
-<p align="center">
-  <img src="./microsoft-it-support-specialist.png" alt="Microsoft IT Support Specialist Professional Certificate" width="900">
-</p>
 
 ---
 
