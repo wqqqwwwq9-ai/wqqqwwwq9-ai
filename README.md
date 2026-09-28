@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Sins
 
-### 💻 IT Support • Cybersecurity • Systems Engineering • Software Development
+### 🖥️ IT Infrastructure Specialist • Cybersecurity • Systems Engineering • Software Development
 
-I'm a technology-focused creator building practical projects across **IT support, cybersecurity, systems administration, automation, game development, and software engineering**.
+I'm a technology-focused creator building practical projects across **IT infrastructure, systems administration, cybersecurity, software development, automation, and game development**.
 
-I enjoy taking an idea from concept → implementation → testing and turning it into something people can actually use.
+I enjoy taking ideas from **concept → implementation → testing → deployment** and turning them into practical technology solutions.
 
 ---
 
@@ -29,7 +29,8 @@ The program covered:
 
 ## 🧰 Technical Skills
 
-### 💻 Systems & IT
+### 🖥️ IT & Systems
+
 - Windows
 - Linux / Ubuntu
 - Windows Server concepts
@@ -39,8 +40,10 @@ The program covered:
 - DNS / HTTP / HTTPS fundamentals
 - Database administration
 - Server deployment
+- Technical troubleshooting
 
 ### 🔐 Cybersecurity
+
 - Security fundamentals
 - Privacy & security practices
 - Vulnerability research
@@ -48,18 +51,23 @@ The program covered:
 - Access control
 - Logging & monitoring
 - Incident-focused troubleshooting
+- Secure system configuration
 
-### 👨‍💻 Development
+### 👨‍💻 Software Development
+
 - Python
 - JavaScript
 - Node.js
 - Lua / Roblox Lua
-- HTML / CSS
+- HTML
+- CSS
 - SQL
-- Git / GitHub
-- REST/API concepts
+- Git
+- GitHub
+- REST / API concepts
 
 ### ☁️ Infrastructure & Tools
+
 - Pterodactyl
 - Nginx
 - MariaDB
@@ -73,43 +81,56 @@ The program covered:
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🎮 Admin Powers Simulator — Roblox
+## 🎮 Admin Powers Simulator — Roblox
+
 A Roblox development project focused on advanced administration and moderation systems.
 
-**Highlights**
+### Highlights
+
 - Owner/admin permission hierarchy
 - Moderation commands
 - Ban / temporary ban / kick systems
 - Persistent moderation data
-- Custom admin panel
-- Roblox RemoteEvent-based architecture
+- Custom administration panel
+- RemoteEvent-based architecture
+- Server-side permission validation
 
-**Technologies:** `Lua` `Roblox Studio` `DataStore` `RemoteEvent`
+**Technologies**
+
+`Lua` `Roblox Studio` `DataStore` `RemoteEvent`
 
 ---
 
-### 🏃 Advanced Obby Systems — Roblox
-A multi-system Roblox obstacle-course project designed around progression and player systems.
+## 🏃 Advanced Obby Systems — Roblox
 
-**Highlights**
+A multi-system Roblox obstacle-course project focused on progression, player systems, and interactive gameplay.
+
+### Highlights
+
 - 50-stage progression
 - Checkpoints
 - Hazards
 - Moving platforms
 - HUD systems
-- Rewards and gamepass integration
-- Mobile/controller considerations
+- Rewards
+- Gamepass integration
+- Mobile support considerations
+- Controller support considerations
 
-**Technologies:** `Lua` `Roblox Studio`
+**Technologies**
+
+`Lua` `Roblox Studio`
 
 ---
 
-### 🚌 Regional Bus Simulator
-A vehicle/gameplay systems project for Roblox.
+## 🚌 Regional Bus Simulator
 
-**Highlights**
+A vehicle and gameplay systems project for Roblox.
+
+### Highlights
+
 - Vehicle controls
 - Fuel system
 - Door controls
@@ -120,28 +141,36 @@ A vehicle/gameplay systems project for Roblox.
 - Saving systems
 - Mobile/controller support
 
-**Technologies:** `Lua` `Roblox Studio`
+**Technologies**
+
+`Lua` `Roblox Studio`
 
 ---
 
-### 🛡️ Veyronis Antivirus
-A cybersecurity-focused software project exploring security tooling and a desktop interface.
+## 🛡️ Veyronis Antivirus
 
-**Focus areas**
+A cybersecurity-focused software project exploring security tooling and desktop application development.
+
+### Focus Areas
+
 - Security-oriented UI
 - Threat-focused workflows
 - Application architecture
 - Python development
 - Windows desktop environment
 
-**Technologies:** `Python` `Windows`
+**Technologies**
+
+`Python` `Windows`
 
 ---
 
-### 🌐 NovaGXBrowser
-An Electron-based browser project inspired by gaming-focused browser interfaces.
+## 🌐 NovaGXBrowser
 
-**Features explored**
+An Electron-based desktop browser project inspired by gaming-focused browser interfaces.
+
+### Features Explored
+
 - Tab management
 - Bookmarks
 - History
@@ -150,14 +179,18 @@ An Electron-based browser project inspired by gaming-focused browser interfaces.
 - Ad/tracker blocking concepts
 - Desktop application packaging
 
-**Technologies:** `Electron` `JavaScript` `Chromium` `npm`
+**Technologies**
+
+`Electron` `JavaScript` `Chromium` `npm`
 
 ---
 
-### 🖥️ Pterodactyl Infrastructure
+## 🖥️ Pterodactyl Infrastructure
+
 A self-hosting and server-management environment built around Pterodactyl.
 
-**Infrastructure**
+### Infrastructure
+
 - Ubuntu
 - Nginx
 - PHP
@@ -166,38 +199,69 @@ A self-hosting and server-management environment built around Pterodactyl.
 - Composer
 - Pterodactyl Panel
 
-**Focus:** Linux administration, web infrastructure, databases, and game-server management.
+### Focus
+
+Linux administration, web infrastructure, databases, server deployment, and game-server management.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wqqqwwwq9-ai&show_icons=true&hide_border=true&rank_icon=github" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wqqqwwwq9-ai&layout=compact&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=wqqqwwwq9-ai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Sins%27%20GitHub%20Statistics" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wqqqwwwq9-ai&layout=compact&langs_count=10&hide_border=true&custom_title=Technology%20Stack" height="180">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=wqqqwwwq9-ai&hide_border=true" height="170">
+  <img src="https://streak-stats.demolab.com?user=wqqqwwwq9-ai&hide_border=true&mode=weekly" height="180">
 </p>
 
 ---
 
-## 📈 What I'm Working Toward
+# 🏆 GitHub Achievements
 
-- 🔐 Cybersecurity & security engineering
-- 🖥️ IT support and systems administration
-- ☁️ Infrastructure & server management
-- 👨‍💻 Software engineering
-- 🌐 Web and application development
-- 🎮 Game systems development
-- 🤖 Automation and developer tooling
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wqqqwwwq9-ai&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6">
+</p>
 
 ---
 
-## 🧠 Current Learning
+# 📈 Contribution Activity
 
-I'm continuing to build practical experience through projects involving:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wqqqwwwq9-ai&hide_border=true&area=true" width="100%">
+</p>
+
+---
+
+# 🛠️ Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,python,js,nodejs,lua,html,css,mysql,git,github,docker,nginx,redis,vscode&perline=8" />
+</p>
+
+---
+
+# 🎯 Professional Focus
+
+I'm building experience toward roles involving:
+
+- 🖥️ IT Infrastructure
+- ⚙️ Systems Administration
+- ☁️ Server & Cloud Infrastructure
+- 🔐 Cybersecurity
+- 🛠️ IT Support
+- 🌐 Networking
+- 👨‍💻 Software Engineering
+- 🤖 Automation
+- 🗄️ Database & Server Management
+- 🎮 Game Systems Development
+
+---
+
+# 🧠 Current Learning
+
+I'm continuing to develop practical experience through hands-on projects involving:
 
 ```text
 IT Support
@@ -207,33 +271,7 @@ Cybersecurity
 Linux
 Windows
 Cloud & Infrastructure
+Server Management
 Software Development
 Automation
 Game Development
-```
-
----
-
-## 🛠️ Development Philosophy
-
-> **Build it. Test it. Break it. Fix it. Improve it.**
-
-I prefer hands-on learning and practical projects that require troubleshooting, debugging, documentation, and real implementation.
-
----
-
-## 📫 Connect With Me
-
-- 🐙 **GitHub:** [@wqqqwwwq9-ai](https://github.com/wqqqwwwq9-ai)
-- 💼 **Portfolio:** Coming soon
-- 📧 **Contact:** Available through GitHub
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile!</b>
-</p>
-
-<p align="center">
-  ⭐ Check out my repositories and follow my development journey.
-</p>
