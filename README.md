@@ -80,10 +80,7 @@ Linux administration, web infrastructure, databases, server deployment, and game
 
 ## 💬 Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/178847484364324864)](https://discord.com/users/178847484364324864)
-
-**Discord:** `sinsont`
-**Discord ID:** `178847484364324864`
+[![Discord Profile](https://lanyard.cnrad.dev/api/178847484364324864?theme=dark&bg=1A1C1F&borderRadius=12px&hideDiscrim=true&idleMessage=I'm%20not%20currently%20doing%20anything!)](https://discord.com/users/178847484364324864)
 
 ---
 
