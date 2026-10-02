@@ -78,11 +78,11 @@ Linux administration, web infrastructure, databases, server deployment, and game
 
 ## 💬 Discord
 
-<a href="https://discord.com/users/178847484364324864">
-  <img src="https://lanyard.cnrad.dev/api/178847484364324864" alt="Discord Presence">
-</a>
+## 💬 Discord
 
-**Discord:** `sinsont`  
+[![Discord Presence](https://lanyard.cnrad.dev/api/178847484364324864)](https://discord.com/users/178847484364324864)
+
+**Discord:** `sinsont`
 **Discord ID:** `178847484364324864`
 
 ---
