@@ -8,7 +8,12 @@ I enjoy taking ideas from **concept → implementation → testing → deploymen
 
 ---
 
-## 🏆 Professional Certifications
+## 🏆 Professional Certifications & Degrees
+
+### Bachelor of Science in Computer Science
+**Provider:** UTA, University of Texas at Arlington  
+**Status:** In Progress  
+**Expected Graduation:**  May 2028
 
 ### CompTIA Security+
 
